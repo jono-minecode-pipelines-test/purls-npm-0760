@@ -1,0 +1,44 @@
+{
+    "name": "0.",
+    "version": "1.0.0",
+    "description": "Bulletproff request",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.79.0"
+    },
+    "_id": "0.@1.0.0",
+    "_shasum": "c5c9b0f0ec489f2cedcc4cbfc1158351d8b77f23",
+    "_from": ".",
+    "_npmVersion": "3.10.7",
+    "_nodeVersion": "6.0.0",
+    "_npmUser": {
+        "name": "cavinsmith",
+        "email": "cav@cav.ru"
+    },
+    "dist": {
+        "shasum": "c5c9b0f0ec489f2cedcc4cbfc1158351d8b77f23",
+        "tarball": "https://registry.npmjs.org/0./-/0.-1.0.0.tgz",
+        "integrity": "sha512-kCzmYUer0/2ETplSh+Ca0JPdYRvmoeY90jZfBfkKvy+migd4Y4C5GICyP3WHGniTs1AGR+epYjl6dcyUKEwlFA==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC8OexNTOKzSkOb9rac//grmc2rH2fTzTnQk4FPZDSKSAIhAKGWDF1OQiTKpzmYTcA36ND5zry3mYIwund9wUPIvE/p"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "cavinsmith",
+            "email": "cav@cav.ru"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/0.-1.0.0.tgz_1486499067092_0.031951141310855746"
+    }
+}
