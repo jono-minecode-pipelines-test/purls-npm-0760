@@ -1,0 +1,45 @@
+{
+    "name": "-template-1.0.0xuanyi",
+    "version": "1.0.0",
+    "description": "react\u6a21\u7248",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "-template-1.0.0xuanyi@1.0.0",
+    "_nodeVersion": "18.14.2",
+    "_npmVersion": "9.5.0",
+    "dist": {
+        "integrity": "sha512-2YlmnxL31zhAt8AjkB5b1RYFhG9fpQlM4IlIle2lrIPgVh6mzUpvYX0BJ1ZSM2L4EMy7o7MvjjLhdHtNXhe63A==",
+        "shasum": "e8e76cedd49c8a2f52025be370e341d0e3c85094",
+        "tarball": "https://registry.npmjs.org/-template-1.0.0xuanyi/-/-template-1.0.0xuanyi-1.0.0.tgz",
+        "fileCount": 18,
+        "unpackedSize": 702742,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBcQ+hg0r2DRlJsWe5SNHd70MdG6M+icju/fMbq8Z0VOAiB7absqUJ5SEvZcV1oE5q2l4IpuLEXIRq3XUAWEf296Yw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/rnQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrjEw/+J2w0uKMWyCrRqYjCINskvpVWcj8xE1PbBIR/oFGNkbASnwxV\r\naGnS9WYquk/x8rRwLYXuDtlC8bq4H2jERvOZOW4aJnSluqwASF9p+qds+yLu\r\nUjKzjMeXJqCnVr9KX/j/D9WSZtV27VWIYgX9/t69hzsszqnNr7SuOLLn4GGV\r\nB3AMYlerpfyxuGHmHLaNIQ7Cy5XnaMKcb2EnKAxuUYVnvs0SAMRco3dF6Xtu\r\nFPB/dzf5iQFw/B57tb/ofdjf+HUmyLaWlj4Nftv99Z1UX5subNBQs0Y11VVg\r\n12zBXJAhgTCByI7D8qFa6wy7qtTs0c3Wf1upX5sA16gwk6CdV7GdtopwILOR\r\nzSwWSQNQAresBuWieS4b8SnpqrsRuH+iHJeGKl8Ra8XhvqR4sIDNTig5LXOV\r\nFkYhpL16pt/S3w84SQV30wTxK6fP1gWzpqSC0EKVaPrpGwFvHBkCd9haJLSR\r\nLRbJi9kqp71lg4NN708VRyNaApNCPA+7g6e2OTLdIkN8XWBwGBmQVPmihiwm\r\nQID/VRtjjq7ytaeFZA6zTEE+MndH9O7ISWfOR0kruECPsB5FomhrabjiQf9v\r\nmVZ73oEgwKq795FlEJB4C4SE4W18a8pAREMmHCNqpn6mS96065vCuN4aHMf6\r\na1oeTZTwbygW99MjVgLb+5C6LV7Bp4dFxBM=\r\n=U46d\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "xuanyi666",
+        "email": "xayqaq@icloud.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "xuanyi666",
+            "email": "xayqaq@icloud.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-template-1.0.0xuanyi_1.0.0_1677638096123_0.702269381726675"
+    },
+    "_hasShrinkwrap": false
+}

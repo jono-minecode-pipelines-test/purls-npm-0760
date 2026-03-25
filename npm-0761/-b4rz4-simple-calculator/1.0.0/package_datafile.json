@@ -1,0 +1,50 @@
+{
+    "name": "-b4rz4-simple-calculator",
+    "version": "1.0.0",
+    "description": "A calculator wtih Typescript, Node.js and induirer",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-b4rz4-simple-calculator@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-xwLkRyKZ7XTEJ3vm9wwax9kPOJPp/1t6AT3vejLXE1O2RyC75R14hQYVCUg+qkqoaSBdPXucNGMauOdSJQCNCw==",
+        "shasum": "6710a248a8af515dd8ba4901ae778367939424f3",
+        "tarball": "https://registry.npmjs.org/-b4rz4-simple-calculator/-/-b4rz4-simple-calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14712,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCoM8UArq5YVkbTMP1cE7m/fPdja0i0kVG2a4gJRI1c+gIgduN33MO6SzPMbkQbnfoBXRQXtc7oE5hRofe6Yiz0KIM="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "barzashafeeq12",
+        "email": "barzashafeeq12@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "barzashafeeq12",
+            "email": "barzashafeeq12@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-b4rz4-simple-calculator_1.0.0_1711118118914_0.8390581197718976"
+    },
+    "_hasShrinkwrap": false
+}

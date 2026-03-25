@@ -1,0 +1,47 @@
+{
+    "name": "-xielingxin-stack-javascript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "114514"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "-xielingxin-stack-javascript@1.0.0",
+    "_nodeVersion": "18.14.0",
+    "_npmVersion": "9.3.1",
+    "dist": {
+        "integrity": "sha512-nhTtgFQCh04VAZ5t7ka0anPpVVGnkEMLsBpwLglTniOM3E0tYgYfHFxe0KVHJNBEz+jXOfqyw1/SybcaMSxfgw==",
+        "shasum": "42b15b827f33760597688216ecbb4ef00c4d25a8",
+        "tarball": "https://registry.npmjs.org/-xielingxin-stack-javascript/-/-xielingxin-stack-javascript-1.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 250,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBvCGP6f9n3lfFUl1Rv4GnTRdT7Wjvz6QOqGBcjdVFPMAiANZKvKhLZUT/yWbEl5/Z3PzRPONC061Wjdu1c93t7vhA=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkBo/MACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqrgw/+OSQ2SiHaReldzj5VoZqAyMjVFgCaBems7Va6vC79FXQDYLEw\r\nqZgjDG56OQY0Devhv2ZnJ91XCyfflbAXthI1CGucYCzLygGkbruOohe6HzlA\r\nMpYei+vhPehiJR8gZsDhDt70rVesnzIXudBSgw5e2x1CDFoU6bCcFejTqJ3o\r\nZxyuSPFwSujHoLCNmMPRfiyWtMg+gcwuA58r5I4FF7B8eMje93+jYE3KO5og\r\nPKDATLUHXD555Tphzsg74KBDgfR7pAXTTQjW/lXTdwJzgo0A+UR1WJWdTLOk\r\nGkak0ls/Y/YqXsL4iLLzr1aaCNH0apfzKD7M8IEdWs8bVrFdX3iIMgOr5SLf\r\n3usDHb0if8gMGBliXtyMBgIKRl7kdVUMFvy/fpLMyZ+M37L01yq5/HHYH8tj\r\nzPjA1aWrQxanF8/KdZeuVzdou3nLOG1DlUh68OT5VBqdwIRs7EHu72vvqYty\r\n/nGSqchlHSO0YPDf51Bh9R96rQGCNEYwFWxvp+TXaz0kynrLFrfM2MkQlnSC\r\n8xoTYjJs+MKMIj4GESgZ4gmaBRhDBzrQwULrAEDefag29nqn44yPNGHAJZpN\r\nBSNSR77LEqEcepMXGEVSW7ZyiitzokRJVtN+gZMNjFirqjBvw8HG30myVuFH\r\nrZIqvchd5V3q/kJVJsFx/N9weq4k7hZOOMM=\r\n=iL+k\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "xielingxin",
+        "email": "2487644726@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "xielingxin",
+            "email": "2487644726@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-xielingxin-stack-javascript_1.0.0_1678151628007_0.4945901696178878"
+    },
+    "_hasShrinkwrap": false
+}
